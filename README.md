@@ -31,4 +31,7 @@
      
     }
     
+    first.desposit(400.0);
+    cout << "Your Balance is " << first.showBalance() << endl;
     
+    cout << " How much do you wann withdraw?: "
